@@ -5,3 +5,31 @@ p{   border-style: none 3px;
 
 }
 
+.fwb-blue {
+    background-color: #a8c5da;
+    margin-left: -600px;
+    margin-right: -600px;
+    overflow-x:hidden;
+      text-align: center;
+  }
+  .fwb-bluecontentleft {
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 28px;
+    line-height: 120%;
+    /* float:left; */
+    width: 400px;
+    display: inline-block;
+    text-align: justify;
+  }
+  
+  .fwb-bluecontentright {
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 28px;
+    line-height: 120%;
+    /* float:right; */
+    width:400px;
+    display: inline-block;
+    text-align: justify;
+   }
